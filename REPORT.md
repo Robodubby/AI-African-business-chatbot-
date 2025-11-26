@@ -1,7 +1,7 @@
 # Final Report: AI-Powered Chatbot for Local Businesses
 
 ## Introduction
-Small businesses in Africa often face challenges in providing quick and consistent answers to customer questions. Many lack dedicated customer service teams, which can lead to delays and missed opportunities. Our project aims to solve this by building a simple AI-powered chatbot that can answer frequently asked questions using a small, well-structured dataset.
+local businesses in Africa often face challenges in providing quick and consistent answers to customer questions. Many lack dedicated customer service teams, which can lead to delays and missed opportunities. Our project aims to solve this by building a simple AI-powered chatbot that can answer frequently asked questions using a small, well-structured dataset.
 
 ## Project Objective
 The main goal is to create a chatbot that helps local businesses respond to customer inquiries efficiently. We use a rule-based approach with basic Natural Language Processing (NLP) techniques to match customer questions to the right answers.
